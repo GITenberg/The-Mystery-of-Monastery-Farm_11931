@@ -1,0 +1,30 @@
+_repo: The-Mystery-of-Monastery-Farm_11931
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Naylor, H. R.
+    gutenberg_agent_id: '4137'
+    url: http://www.gutenberg.org/2009/agents/4137
+description: The return of Job Worth to London was not at all joyous. He sat upon
+  the deck in his ship chair or lay in his bunk drawing darkest pictures of his defeat,
+  as he called it. Nor was there any elation in his feelings when, upon his arrival
+  at the bank, the cashier handed him a check for three thousand pounds, as a reward
+  for the restoration of the fifty thousand pounds. Yes, it was something to be sure;
+  yet not much. There was chagrin in it all, and he continually felt this, as he mingled
+  with his colleagues. To him it was--well--failure. At this time, there was another
+  meeting of the bank directors. Nearly all were present. The cashier presided. Something
+  had happened again. Was it another robbery?
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11931'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Mystery of Monastery Farm
+url: http://www.gutenberg.org/ebooks/11931
