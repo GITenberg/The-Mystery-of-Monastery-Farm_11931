@@ -1,5 +1,8 @@
 _repo: The-Mystery-of-Monastery-Farm_11931
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Naylor, H. R.
@@ -14,6 +17,8 @@ description: The return of Job Worth to London was not at all joyous. He sat upo
   with his colleagues. To him it was--well--failure. At this time, there was another
   meeting of the bank directors. Nearly all were present. The cashier presided. Something
   had happened again. Was it another robbery?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11931#The-Mystery-of-Monastery-Farm
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
